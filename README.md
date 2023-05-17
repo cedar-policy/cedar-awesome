@@ -2,11 +2,6 @@
 
 A curated list of awesome Cedar related tools and articles.
 
-## Security
+## Contributing
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-This project is licensed under the Apache-2.0 License.
-
+Built an awesome Cedar integration or wrote an interesting blog or article on the topic? Submit a Pull Request! Just follow the [guidelines](https://github.com/cedar-policy/.github/blob/main/CONTRIBUTING.md). 
