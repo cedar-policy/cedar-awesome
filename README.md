@@ -1,11 +1,6 @@
-## My Project
+## Cedar Awesome
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+A curated list of awesome Cedar related tools and articles.
 
 ## Security
 
