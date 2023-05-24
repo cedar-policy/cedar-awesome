@@ -25,6 +25,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar relat
   - [Cedar vs Rego (OPA)](https://www.permit.io/blog/opa-vs-cedar)
   - [How Cedar was built with verification-guided development](https://www.amazon.science/blog/how-we-built-cedar-with-automated-reasoning-and-differential-testing)
   - [Cedar: A new policy language](https://onecloudplease.com/blog/cedar-a-new-policy-language)
+  - [Scaling Authorization with Cedar and OPAL](https://www.permit.io/blog/scaling-authorization-with-cedar-and-opal)
 
 ## Videos
   - [Use policies to manage permissions w/Amazon Verified Permissions (AWS re:Invent 2022)](https://www.youtube.com/watch?v=k6pPcnLuOXY)
