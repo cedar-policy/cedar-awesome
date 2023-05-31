@@ -21,6 +21,8 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar relat
   - Go bindings [WASM based](https://github.com/Joffref/cedar) 
   - Go bindings [CGO based](https://github.com/iann0036/cedargo)
 
+## Tools and Utilities
+- [aws-cedar-auth](https://github.com/iann0036/aws-cedar-auth) - A Cedar policy engine overlay for the AWS service endpoints
 ## Articles
   - [Cedar vs Rego (OPA)](https://www.permit.io/blog/opa-vs-cedar)
   - [How Cedar was built with verification-guided development](https://www.amazon.science/blog/how-we-built-cedar-with-automated-reasoning-and-differential-testing)
