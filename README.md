@@ -23,18 +23,17 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar relat
 
 ## Articles
   - [Cedar vs Rego (OPA)](https://www.permit.io/blog/opa-vs-cedar)
-  - [How Cedar was built with verification-guided development](https://www.amazon.science/blog/how-we-built-cedar-with-automated-reasoning-and-differential-testing)
+  - [How we built Cedar with automated reasoning and differential testing ](https://www.amazon.science/blog/how-we-built-cedar-with-automated-reasoning-and-differential-testing)
   - [Cedar: A new policy language](https://onecloudplease.com/blog/cedar-a-new-policy-language)
   - [Scaling Authorization with Cedar and OPAL](https://www.permit.io/blog/scaling-authorization-with-cedar-and-opal)
   - [Using Open Source Cedar to Write and Enforce Custom Authorization Policies](https://aws.amazon.com/blogs/opensource/using-open-source-cedar-to-write-and-enforce-custom-authorization-policies/)
-  - [https://www.amazon.science/blog/how-we-built-cedar-with-automated-reasoning-and-differential-testing](https://www.amazon.science/blog/how-we-built-cedar-with-automated-reasoning-and-differential-testing)
   - [The Cedar Programming Language: Authorization Simplified](https://thenewstack.io/the-cedar-programming-language-authorization-simplified/)
-  - [Verification-Guided Development of the Cedar Authorization Language](https://cps-vo.org/node/94470)
+  
 
 ## Videos
-  - [Use policies to manage permissions w/Amazon Verified Permissions (AWS re:Invent 2022)](https://www.youtube.com/watch?v=k6pPcnLuOXY)
-  - [Demo of the Cedar Programming Language - The Open Source Language from AWS](https://www.youtube.com/watch?v=PzmDYyyA5xM)
-- [The Cedar Language and Policy Based Authorization with Emina Torlak](https://authorizationinsoftware.auth0.com/public/49/Authorization-in-Software-f9b69587/55f50479)
+ - [Use policies to manage permissions w/Amazon Verified Permissions (AWS re:Invent 2022)](https://www.youtube.com/watch?v=k6pPcnLuOXY)
+ - [Demo of the Cedar Programming Language - The Open Source Language from AWS](https://www.youtube.com/watch?v=PzmDYyyA5xM)
+ - [The Cedar Language and Policy Based Authorization with Emina Torlak](https://authorizationinsoftware.auth0.com/public/49/Authorization-in-Software-f9b69587/55f50479)
 
 ## Contributing
 
