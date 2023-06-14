@@ -29,6 +29,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar relat
   - [Scaling Authorization with Cedar and OPAL](https://www.permit.io/blog/scaling-authorization-with-cedar-and-opal)
   - [Using Open Source Cedar to Write and Enforce Custom Authorization Policies](https://aws.amazon.com/blogs/opensource/using-open-source-cedar-to-write-and-enforce-custom-authorization-policies/)
   - [The Cedar Programming Language: Authorization Simplified](https://thenewstack.io/the-cedar-programming-language-authorization-simplified/)
+  - [Implementing Role-Based Access Control (RBAC) with AWS’ Cedar](https://www.permit.io/blog/cedar-rbac)
   
 
 ## Videos
