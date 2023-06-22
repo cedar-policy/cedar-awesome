@@ -37,6 +37,8 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar relat
  - [Demo of the Cedar Programming Language - The Open Source Language from AWS](https://www.youtube.com/watch?v=PzmDYyyA5xM)
  - [The Cedar Language and Policy Based Authorization with Emina Torlak](https://authorizationinsoftware.auth0.com/public/49/Authorization-in-Software-f9b69587/55f50479)
 
+## Blogs
+- [Cedarland](https://cedarland.blog/)
 ## Contributing
 
 Built an awesome Cedar integration or wrote an interesting blog or article on the topic? Submit a Pull Request! Just follow the [guidelines](https://github.com/cedar-policy/.github/blob/main/CONTRIBUTING.md). 
