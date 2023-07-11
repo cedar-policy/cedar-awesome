@@ -20,6 +20,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar relat
 ## Language and Platform Integrations
   - Go bindings [WASM based](https://github.com/Joffref/cedar) 
   - Go bindings [CGO based](https://github.com/iann0036/cedargo)
+  - [Python bindings (cedarpy)](https://github.com/k9securityio/cedar-py)
   - [Highlight.js syntax](https://github.com/jasmaa/highlightjs-cedar)
 
 ## Articles
