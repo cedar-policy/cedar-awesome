@@ -22,6 +22,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar relat
   - Go bindings [CGO based](https://github.com/iann0036/cedargo)
   - [Python bindings (cedarpy)](https://github.com/k9securityio/cedar-py)
   - [Highlight.js syntax](https://github.com/jasmaa/highlightjs-cedar)
+  - [VIM Plugin](https://github.com/Dzordzu/vim-cedar)
 
 ## Articles
   - [Cedar vs Rego (OPA)](https://www.permit.io/blog/opa-vs-cedar)
