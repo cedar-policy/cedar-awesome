@@ -25,9 +25,10 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar relat
 - [Python bindings (cedarpy)](https://github.com/k9securityio/cedar-py)
 - [Highlight.js syntax](https://github.com/jasmaa/highlightjs-cedar)
 
-## IDE Extensions
+## IDE and Editor Extensions
 
 - VSCode ([GitHub](https://github.com/cedar-policy/vscode-cedar), [Marketplace](https://marketplace.visualstudio.com/items?itemName=cedar-policy.vscode-cedar))
+- [VIM Plugin](https://github.com/Dzordzu/vim-cedar)
 
 ## Articles
 
