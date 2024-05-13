@@ -20,15 +20,25 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar relat
 
 ## Language and Platform Integrations
 
+### Official
+
+- [Java bindings](https://github.com/cedar-policy/cedar-java)
+- [Go native implemenation](https://github.com/cedar-policy/cedar-go)
+- [Highlight.js syntax](https://github.com/cedar-policy/highlightjs-cedar)
+- [Prism syntax](https://github.com/cedar-policy/prism-cedar)
+
+### Unofficial
+
 - Go bindings [WASM based](https://github.com/Joffref/cedar)
 - Go bindings [CGO based](https://github.com/iann0036/cedargo)
 - [Python bindings (cedarpy)](https://github.com/k9securityio/cedar-py)
-- [Highlight.js syntax](https://github.com/jasmaa/highlightjs-cedar)
+- [Tree Sitter grammar](https://github.com/chrnorm/tree-sitter-cedar)
 
 ## IDE and Editor Extensions
 
 - VSCode ([GitHub](https://github.com/cedar-policy/vscode-cedar), [Marketplace](https://marketplace.visualstudio.com/items?itemName=cedar-policy.vscode-cedar))
 - [VIM Plugin](https://github.com/Dzordzu/vim-cedar)
+- [Zed Plugin](https://github.com/chrnorm/zed-cedar)
 
 ## Articles
 
