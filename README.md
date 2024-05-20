@@ -56,8 +56,9 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar relat
 
 - [Use policies to manage permissions w/ Amazon Verified Permissions (AWS re:Invent 2022)](https://www.youtube.com/watch?v=k6pPcnLuOXY)
 - [Demo of the Cedar Programming Language - The Open Source Language from AWS](https://www.youtube.com/watch?v=PzmDYyyA5xM)
-- [AWS On Air featuring Open Source Security at AWS](https://www.youtube.com/watch?v=T8X7VDmJkz4) features discussion of Cedar and a demo
+- [AWS On Air featuring Open Source Security at AWS](https://www.youtube.com/watch?v=T8X7VDmJkz4) (features discussion of Cedar and a demo)
 - [The Cedar Language and Policy Based Authorization with Emina Torlak](https://authorizationinsoftware.auth0.com/public/49/Authorization-in-Software-f9b69587/55f50479)
+- [Enforcing Consent Conformance in Your Authz Logic with a Fine-Grained Perms Model (Identiverse 2023)](https://www.youtube.com/watch?v=HnnlGBNur2w) (features discussion of Cedar and a demo)
 
 ## Blogs
 
