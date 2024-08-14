@@ -32,6 +32,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar relat
 - Go bindings [WASM based](https://github.com/Joffref/cedar)
 - Go bindings [CGO based](https://github.com/iann0036/cedargo)
 - [Python bindings (cedarpy)](https://github.com/k9securityio/cedar-py)
+- Ruby bindings [cedar-policy-rb](https://github.com/elct9620/cedar-policy-rb)
 - [Tree Sitter grammar](https://github.com/chrnorm/tree-sitter-cedar)
 
 ## IDE and Editor Extensions
