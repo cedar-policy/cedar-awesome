@@ -26,6 +26,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar relat
 - [Go native implemenation](https://github.com/cedar-policy/cedar-go)
 - [Highlight.js syntax](https://github.com/cedar-policy/highlightjs-cedar)
 - [Prism syntax](https://github.com/cedar-policy/prism-cedar)
+- [Kubernetes integration](https://github.com/awslabs/cedar-access-control-for-k8s)
 
 ### Unofficial
 
