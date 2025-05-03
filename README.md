@@ -4,7 +4,7 @@
 
 A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar related tools and articles. Amazon does not endorse or support the hyperlinked projects, and expressly disclaims all warranties, whether express, implied or statutory, regarding these projects. Use them “as is” and “as available” at your own discretion.
 
-## Offical
+## Official
 
 - [Cedar Project](https://www.cedarpolicy.com/en)  
 - [Cedar Docs](https://docs.cedarpolicy.com/)
@@ -34,6 +34,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar relat
 - Go bindings [CGO based](https://github.com/iann0036/cedargo)
 - [Python bindings (cedarpy)](https://github.com/k9securityio/cedar-py)
 - Ruby bindings [cedar-policy-rb](https://github.com/elct9620/cedar-policy-rb)
+- .NET bindings [CedarDotNet](https://github.com/jamiewinder/CedarDotNet)
 - [Tree Sitter grammar](https://github.com/chrnorm/tree-sitter-cedar)
 
 ## IDE and Editor Extensions
