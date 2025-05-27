@@ -36,6 +36,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar relat
 - Ruby bindings [cedar-policy-rb](https://github.com/elct9620/cedar-policy-rb)
 - .NET bindings [CedarDotNet](https://github.com/jamiewinder/CedarDotNet)
 - [Tree Sitter grammar](https://github.com/chrnorm/tree-sitter-cedar)
+- Cedar Playground [OpenPARC](https://playground.openparc.dev)
 
 ## IDE and Editor Extensions
 
