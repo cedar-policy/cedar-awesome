@@ -17,6 +17,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar relat
 - [Amazon Verified Permissions](https://aws.amazon.com/verified-permissions/)
 - [Cedar Agent](https://github.com/permitio/cedar-agent)
 - [Permit.io](https://www.permit.io/)
+- [Cedrus](https://github.com/stratusmedia/cedrus)
 
 ## Language and Platform Integrations
 
@@ -37,6 +38,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar relat
 - .NET bindings [CedarDotNet](https://github.com/jamiewinder/CedarDotNet)
 - [Tree Sitter grammar](https://github.com/chrnorm/tree-sitter-cedar)
 - Cedar Playground [OpenPARC](https://playground.openparc.dev)
+- Rust JSON/Protobuf type bindings [cedrus-cedar](https://github.com/stratusmedia/cedrus/tree/main/cedrus-cedar)
 
 ## IDE and Editor Extensions
 
