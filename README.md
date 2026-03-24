@@ -18,6 +18,8 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar relat
 - [Cedar Agent](https://github.com/permitio/cedar-agent)
 - [Permit.io](https://www.permit.io/)
 
+- [Carapace](https://github.com/clawdreyhepburn/carapace) - Cedar policy enforcement for AI agent tool calls (OpenClaw plugin)
+
 ## Language and Platform Integrations
 
 ### Official
