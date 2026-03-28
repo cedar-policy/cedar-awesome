@@ -17,6 +17,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar relat
 - [Amazon Verified Permissions](https://aws.amazon.com/verified-permissions/)
 - [Cedar Agent](https://github.com/permitio/cedar-agent)
 - [Permit.io](https://www.permit.io/)
+- [protect-mcp](https://github.com/tomjwxf/scopeblind-gateway) — MCP security gateway with local Cedar WASM evaluation. Wraps AI agent servers with per-tool Cedar policies and Ed25519-signed decision receipts. [npm](https://npmjs.com/package/protect-mcp)
 
 ## Language and Platform Integrations
 
