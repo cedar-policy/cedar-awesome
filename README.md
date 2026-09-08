@@ -17,6 +17,8 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar relat
 - [Amazon Verified Permissions](https://aws.amazon.com/verified-permissions/)
 - [Cedar Agent](https://github.com/permitio/cedar-agent)
 - [Permit.io](https://www.permit.io/)
+- [Cedrus](https://github.com/stratusmedia/cedrus)
+- [CedrusPermit](https://www.cedruspermit.com)
 
 ## Language and Platform Integrations
 
