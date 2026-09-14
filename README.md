@@ -20,6 +20,8 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar relat
 - [Cedrus](https://github.com/stratusmedia/cedrus)
 - [CedrusPermit](https://www.cedruspermit.com)
 
+- [Carapace](https://github.com/clawdreyhepburn/carapace) - Cedar policy enforcement for AI agent tool calls (OpenClaw plugin)
+
 ## Language and Platform Integrations
 
 ### Official
