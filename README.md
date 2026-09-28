@@ -84,13 +84,13 @@ Cedar lets you express authorization rules as readable policies, decouple them f
 - [Cedarling-Android](https://docs.jans.io/stable/cedarling/developer/mobile-apps/cedarling-android/) - Run Cedar policy decision point in Android application. :zap:
 - [Cedarling-iOS](https://docs.jans.io/stable/cedarling/developer/mobile-apps/cedarling-ios/) - Run Cedar policy decision point in iOS application. :zap:
 - [Cedarling-UniFFI](https://docs.jans.io/stable/cedarling/developer/mobile-apps/cedarling-uniffi/) - The UniFFI layer that generates the Kotlin, Android and iOS bindings. :zap:
-- [Cedarling-sidecar](https://docs.jans.io/stable/cedarling/developer/sidecar/cedarling-sidecar-overview/) - Run Cedar policy decision point as a separate Flask container that support [AuthZEN API](https://openid.github.io/authzen/) :zap:
 
 ### Framework and Platform Integrations
 
 - [Cedar for Kubernetes](https://github.com/cedar-policy/cedar-access-control-for-k8s) - Authorize and admit Kubernetes API requests with Cedar policies. :office:
 - [authorization-for-expressjs](https://github.com/cedar-policy/authorization-for-expressjs) - Official Express middleware that enforces Cedar policies on HTTP routes. :office:
 - [cedar-for-agents](https://github.com/cedar-policy/cedar-for-agents) - Official exploration of Cedar for authorizing AI agents and their tool calls. :office:
+- [Cedarling-sidecar](https://docs.jans.io/stable/cedarling/developer/sidecar/cedarling-sidecar-overview/) - Run Cedar policy decision point as a separate Flask container that support [AuthZEN API](https://openid.github.io/authzen/) :zap:
 
 ## IDE and Editor Extensions
 
