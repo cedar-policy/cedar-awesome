@@ -36,7 +36,6 @@ Cedar lets you express authorization rules as readable policies, decouple them f
 
 - [Cedar Project](https://cedarpolicy.com/) - Project home, with an interactive playground, a ten-step tutorial and learning resources. :office:
 - [Cedar Docs](https://docs.cedarpolicy.com/) - Language reference, syntax guide and best practices. :office:
-- [Cedar Playground](https://cedarpolicy.com/en/playground) - Write policies and evaluate authorization requests in the browser, no install required. :office:
 - [CNCF Project Page](https://www.cncf.io/projects/cedar/) - The page for Cedar as a CNCF Sandbox project, accepted in October 2025. :office:
 - [Cedar on GitHub](https://github.com/cedar-policy) - The GitHub organization hosting the language, its proofs and its official integrations. :office:
 - [cedar](https://github.com/cedar-policy/cedar) - The reference implementation of the Cedar language, in Rust. :office:
@@ -52,9 +51,9 @@ Cedar lets you express authorization rules as readable policies, decouple them f
 
 - [Amazon Verified Permissions](https://aws.amazon.com/verified-permissions/) - Managed AWS service for storing Cedar policies and evaluating authorization requests at scale. :office:
 - [cedar-local-agent](https://github.com/cedar-policy/cedar-local-agent) - Official Rust crate for running a local decision point with file-backed policy and entity providers that reload on change. :office:
-- [Cedarling](https://docs.jans.io/stable/cedarling/) - Open-source embeddable Cedar policy decision point with a Rust core. Offers 10 language [bindings](https://docs.jans.io/stable/cedarling/tutorials/cedarling-getting-started/), JWT token mapping and validation. Support policy store format to support policy governance and distribution. :zap:
+- [Cedarling](https://docs.jans.io/stable/cedarling/) - Linux Foundation Janssen Project governed embeddable PDP powered by the Cedar Rust engine. Offers 10 language [bindings](https://docs.jans.io/stable/cedarling/tutorials/cedarling-getting-started/), JWT token validation and enterprise management features. :zap:
+- [Cedarling-sidecar](https://docs.jans.io/stable/cedarling/developer/sidecar/cedarling-sidecar-overview/) - OpenID [AuthZEN REST API](https://openid.github.io/authzen/) server for Cedar Policy authorization. :zap:
 - [Cedrus](https://github.com/stratusmedia/cedrus) - REST API server for Cedar Policy authorization, designed for internal infrastructure. It provides a multi-tenant authorization service.
-
 
 ## Language and Platform Integrations
 
@@ -90,7 +89,6 @@ Cedar lets you express authorization rules as readable policies, decouple them f
 - [Cedar for Kubernetes](https://github.com/cedar-policy/cedar-access-control-for-k8s) - Authorize and admit Kubernetes API requests with Cedar policies. :office:
 - [authorization-for-expressjs](https://github.com/cedar-policy/authorization-for-expressjs) - Official Express middleware that enforces Cedar policies on HTTP routes. :office:
 - [cedar-for-agents](https://github.com/cedar-policy/cedar-for-agents) - Official exploration of Cedar for authorizing AI agents and their tool calls. :office:
-- [Cedarling-sidecar](https://docs.jans.io/stable/cedarling/developer/sidecar/cedarling-sidecar-overview/) - Run Cedar policy decision point as a separate Flask container that support [AuthZEN API](https://openid.github.io/authzen/) :zap:
 
 ## IDE and Editor Extensions
 
@@ -104,6 +102,7 @@ Cedar lets you express authorization rules as readable policies, decouple them f
 
 ## Playgrounds and Policy Editors
 
+- [Cedar Playground](https://cedarpolicy.com/en/playground) - Write policies and evaluate authorization requests in the browser, no install required. :office:
 - [AgamaLab policy designer](https://cloud.gluu.org/agama-lab/dashboard/policy-designer)
 - [OpenPARC Playground](https://playground.openparc.dev/)
 - [cedarling.dev](https://cedarling.dev)
@@ -114,6 +113,7 @@ Cedar lets you express authorization rules as readable policies, decouple them f
 - [AuthZEN interface for Verified Permissions](https://github.com/aws-samples/sample-authzen-interface-verified-permissions) - Reference implementation connecting the OpenID AuthZEN protocol to Amazon Verified Permissions. :office:
 - [ASP.NET Core authorization provider](https://github.com/aws-samples/amazon-verified-permissions-asp-dotnet-core-custom-auth-policy-provider) - Custom ASP.NET Core authorization policy provider backed by Verified Permissions. :office:
 - [RBAC to PBAC migration sample](https://github.com/aws-samples/sample-app-migrate-access-rbac-to-pbac-with-verified-permissions) - Worked example of migrating from role-based to policy-based authorization. :office:
+- [Learn to deploy embaddable Cedar PDP](https://cedarling.dev/learn) - Tutorials and learning path for the Cedarling PDP :zap:
 
 ## Papers and Research
 
