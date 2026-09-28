@@ -180,7 +180,7 @@ Cedar lets you express authorization rules as readable policies, decouple them f
 
 ## Books
 
-- [Authorization in Action](https://www.manning.com/books/authorization-in-action) - by Phil Windley
+- [Authorization in Action](https://www.manning.com/books/authorization-in-action) - by Phil Windley - The book uses Cedar to explain the concepts of authorization and also as a practical implementation. Great book to get started with authorization in general.
 
 ## Contributing
 
