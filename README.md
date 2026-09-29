@@ -38,14 +38,8 @@ Cedar lets you express authorization rules as readable policies, decouple them f
 - [Cedar Docs](https://docs.cedarpolicy.com/) - Language reference, syntax guide and best practices. :office:
 - [CNCF Project Page](https://www.cncf.io/projects/cedar/) - The page for Cedar as a CNCF Sandbox project, accepted in October 2025. :office:
 - [Cedar on GitHub](https://github.com/cedar-policy) - The GitHub organization hosting the language, its proofs and its official integrations. :office:
-- [cedar](https://github.com/cedar-policy/cedar) - The reference implementation of the Cedar language, in Rust. :office:
-- [cedar-spec](https://github.com/cedar-policy/cedar-spec) - The Lean formalization of Cedar, plus the differential-testing harness that keeps the Rust implementation honest. :office:
-- [cedar-examples](https://github.com/cedar-policy/cedar-examples) - Official sample applications, including TinyTodo, the app built by the docs tutorial. :office:
-- [RFCs](https://github.com/cedar-policy/rfcs) - The design process for language changes, and the best place to see where Cedar is heading. :office:
-- [Integration tests](https://github.com/cedar-policy/cedar-integration-tests) - Official integration tests for Cedar implementations. :office:
-- [cedar-json-parser](https://github.com/cedar-policy/cedar-json-parser) - A JSON parser for Cedar, verified with Verus. :office:
-- [Cedar Community](https://github.com/cedar-policy/cedar-community) - Notes from the monthly community meetings. :office:
-- [Community Slack](https://cloud-native.slack.com/archives/C0AQXC9M4G1) - The Cedar channel on CNCF Slack. Get an invite at [slack.cncf.io](https://slack.cncf.io). :office:
+  - Some of the important repositories from Cedar GitHub organization include the [language specification](https://github.com/cedar-policy/cedar-spec), the [Rust refernce implementation](https://github.com/cedar-policy/cedar), official sample [applications](https://github.com/cedar-policy/cedar-examples), [RFCs](https://github.com/cedar-policy/rfcs), [integration tests](https://github.com/cedar-policy/cedar-integration-tests) for Cedar implementations, the Cedar [JSON parser](https://github.com/cedar-policy/cedar-json-parser) and the Cedar [Community repo](https://github.com/cedar-policy/cedar-community)
+- [Community Slack](https://cloud-native.slack.com/archives/C0AQXC9M4G1) - The Cedar channel on CNCF Slack. [Get an invite](https://slack.cncf.io). :office:
 
 ## Deploy and Run Cedar
 
