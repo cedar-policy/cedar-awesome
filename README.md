@@ -8,11 +8,11 @@ Cedar lets you express authorization rules as readable policies, decouple them f
 
 ## What is on the `Awesome` list
 
-- Cedar official resources. Contents and repos from Amazon or CNCF are considered official. These are highlighted with :office:
-- Community content that is still relevant or kept up-to-date by the author/community. 
-- Community GitHub projects that are active and maintained with at least one release in last 6 months are included in this list.
-  - Active: Projects with recent release within 3 months. These projects are highlighted with a :zap:
-- Blogs, videos and research papers are sorted by latest on top.
+- :zap: - shows active projects with recent release within 3 months.
+- :office: - shows Cedar official resources
+- Relevant community content like :play_or_pause_button: videos, :spiral_notepad: blogs, :scroll: wiki pages, :book: books.
+
+Inactive GitHub projects (no releases in past 6 months) or content that is out-of-date is not included in the awesome list.
 
 
 ## Contents
