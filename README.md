@@ -29,6 +29,7 @@ Cedar lets you express authorization rules as readable policies, decouple them f
 - [Tools](#tools)
 - [Playgrounds and Policy Editors](#playgrounds-and-policy-editors)
 - [Examples and Reference Applications](#examples-and-reference-applications)
+- [Adopters](#adopters)
 - [Papers and Research](#papers-and-research)
 - [Blogs and Articles](#blogs-and-articles)
 - [Videos](#videos)
@@ -112,6 +113,10 @@ Cedar lets you express authorization rules as readable policies, decouple them f
 - [ASP.NET Core authorization provider](https://github.com/aws-samples/amazon-verified-permissions-asp-dotnet-core-custom-auth-policy-provider) - Custom ASP.NET Core authorization policy provider backed by Verified Permissions. :office:
 - [RBAC to PBAC migration sample](https://github.com/aws-samples/sample-app-migrate-access-rbac-to-pbac-with-verified-permissions) - Worked example of migrating from role-based to policy-based authorization. :office:
 - [Learn to deploy embaddable Cedar PDP](https://cedarling.dev/learn) - Tutorials and learning path for the Cedarling PDP :zap:
+
+## Adopters
+
+- [Dome Systems](https://www.domesystems.ai) - Agent operations platform that uses Cedar policies to govern AI agents' access to tools, models and identities at the call boundary. :moneybag:
 
 ## Papers and Research
 
