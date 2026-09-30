@@ -19,6 +19,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar relat
 - [Permit.io](https://www.permit.io/)
 - [Cedrus](https://github.com/stratusmedia/cedrus)
 - [CedrusPermit](https://www.cedruspermit.com)
+- [Dome Systems](https://www.domesystems.ai)
 
 ## Language and Platform Integrations
 
