@@ -46,6 +46,10 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Cedar relat
 - [VIM Plugin](https://github.com/Dzordzu/vim-cedar)
 - [Zed Plugin](https://github.com/chrnorm/zed-cedar)
 
+## Tools
+
+- [Counterbranch](https://github.com/counterbranch/action) - GitHub Action that lists the Cedar policies, schemas, templates, Amazon Verified Permissions resources and `isAuthorized` call sites a pull request adds, changes or removes. Parses with the `cedar-policy` crate; static only, it does not evaluate policies.
+
 ## Articles
 
 - [Cedar vs Rego (OPA)](https://www.permit.io/blog/opa-vs-cedar)
