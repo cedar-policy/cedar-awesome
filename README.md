@@ -50,8 +50,6 @@ Cedar lets you express authorization rules as readable policies, decouple them f
 - [Cedarling](https://docs.jans.io/stable/cedarling/) - Linux Foundation Janssen Project governed embeddable PDP powered by the Cedar Rust engine. Offers 10 language [bindings](https://docs.jans.io/stable/cedarling/tutorials/cedarling-getting-started/), JWT token validation and enterprise management features. :zap:
 - [Cedarling-sidecar](https://docs.jans.io/stable/cedarling/developer/sidecar/cedarling-sidecar-overview/) - OpenID [AuthZEN REST API](https://openid.github.io/authzen/) server for Cedar Policy authorization. :zap:
 - [Cedrus](https://github.com/stratusmedia/cedrus) - REST API server for Cedar Policy authorization, designed for internal infrastructure. It provides a multi-tenant authorization service.
-- [Permit.io](https://www.permit.io/) - Commercial service for managing Cedar policies and authorization at scale. :moneybag:
-- [Opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents.
 
 ## Language and Platform Integrations
 
