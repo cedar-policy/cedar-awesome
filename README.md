@@ -118,7 +118,7 @@ Cedar lets you express authorization rules as readable policies, decouple them f
 
 - [Amazon](https://www.amazon.com/) - Creator of the Cedar, offers Amazon Verified Permissions, a managed service for authoring and evaluating Cedar policies.
 - [NVIDIA](https://www.nvidia.com/) - Supports Cedar through OpenShell (open source), which uses Cedar policies to govern AI agent access. And the Omniverse Permission Service uses Cedar policies to control access to storage, assets, and resources
-- [Gluu](https://gluu.org/) - Leads the development of Cedarling at the [Janssen Project](https://jans.io) and integrates Cedar policies into its enterprise identity, access management, and governance platform.
+- [Gluu](https://gluu.org/) - Offers Cedarling, an embeddable and sidecar PDP powered by Cedar, that adds policy management, logging, data integration, token validation, and governance features needed by enterprises to deploy Cedar at scale.
 - [Delinia](https://delinea.com/strongdm) - StrongDM uses Cedar for fine-grained, zero-trust access control across infrastructure, databases, servers, and AI agents
 - [KeyCard.ai](http://keycard.ai/) - a runtime authorization platform for AI agents that supports Cedar to define authorization policies
 - [Permit.io](http://permit.io/) - Integrates Cedar policy support into its authorization platform via Cedar-agent (open source)
