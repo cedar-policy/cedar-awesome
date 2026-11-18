@@ -29,7 +29,7 @@ Cedar lets you express authorization rules as readable policies, decouple them f
 - [Tools](#tools)
 - [Playgrounds and Policy Editors](#playgrounds-and-policy-editors)
 - [Examples and Reference Applications](#examples-and-reference-applications)
-- [Companies with commercial products and projects that use Cedar](#companies-with-commercial-products-and-projects-that-use-cedar)
+- [Companies with commercial products that use Cedar](#companies-with-commercial-products-that-use-cedar)
 - [Papers and Research](#papers-and-research)
 - [Blogs and Articles](#blogs-and-articles)
 - [Videos](#videos)
@@ -185,7 +185,7 @@ Cedar lets you express authorization rules as readable policies, decouple them f
 
 - [A Gentle Introduction to Automated Reasoning](https://www.amazon.science/blog/a-gentle-introduction-to-automated-reasoning)
 
-## Videos 
+## Videos
 
 ### 2026
 
