@@ -53,6 +53,8 @@ Cedar lets you express authorization rules as readable policies, decouple them f
 - [Permit.io](https://www.permit.io/) - Commercial service for managing Cedar policies and authorization at scale. :moneybag:
 - [Opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Policy Agents.
 
+- [Carapace](https://github.com/clawdreyhepburn/carapace) - Cedar policy enforcement for AI agent tool calls (OpenClaw plugin)
+
 ## Language and Platform Integrations
 
 ### Official Bindings
