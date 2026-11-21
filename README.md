@@ -91,6 +91,7 @@ Cedar lets you express authorization rules as readable policies, decouple them f
 ## IDE and Editor Extensions
 
 - [VS Code](https://github.com/cedar-policy/vscode-cedar) - Official extension with syntax highlighting, validation and schema support ([Marketplace](https://marketplace.visualstudio.com/items?itemName=cedar-policy.vscode-cedar)). :office:
+- [JetBrains IDEs](https://github.com/TheFellow/jetbrains-cedar) - Cedar plugin with syntax highlighting, formatting, schema-aware validation, completion and navigation ([Marketplace](https://plugins.jetbrains.com/plugin/34560-cedar)). :zap:
 
 ## Tools
 
