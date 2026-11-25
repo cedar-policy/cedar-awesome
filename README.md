@@ -46,8 +46,8 @@ Cedar lets you express authorization rules as readable policies, decouple them f
 
 ## Deploy and Run Cedar
 
-- [Amazon Verified Permissions](https://aws.amazon.com/verified-permissions/) - Managed AWS service for storing Cedar policies and evaluating authorization requests at scale. :moneybag:
-- [Gluu](https://gluu.org/) - Offers self-hosted or SaaS deployments for enterprise authorization infrastructure using Cedar policies. :moneybag:
+This section lists open source components. Commercial components and companies that offer enterprise support are listed [here](#commercial-authorization-product-providers).
+
 - [cedar-local-agent](https://github.com/cedar-policy/cedar-local-agent) - Official Rust crate for running a local decision point with file-backed policy and entity providers that reload on change. :office:
 - [Cedarling](https://docs.jans.io/stable/cedarling/) - Linux Foundation Janssen Project governed embeddable PDP powered by the Cedar Rust engine. Offers 10 language [bindings](https://docs.jans.io/stable/cedarling/tutorials/cedarling-getting-started/), JWT token validation and enterprise management features. :zap:
 - [Cedarling-sidecar](https://docs.jans.io/stable/cedarling/developer/sidecar/cedarling-sidecar-overview/) - OpenID [AuthZEN REST API](https://openid.github.io/authzen/) server for Cedar Policy authorization. :zap:
@@ -114,14 +114,19 @@ Cedar lets you express authorization rules as readable policies, decouple them f
 - [RBAC to PBAC migration sample](https://github.com/aws-samples/sample-app-migrate-access-rbac-to-pbac-with-verified-permissions) - Worked example of migrating from role-based to policy-based authorization. :office:
 - [Learn to deploy embaddable Cedar PDP](https://cedarling.dev/learn) - Tutorials and learning path for the Cedarling PDP :zap:
 
-## Companies with commercial products that use Cedar
+## Commercial authorization product providers
 
 - [Amazon](https://www.amazon.com/) - Creator of the Cedar, offers Amazon Verified Permissions, a managed service for authoring and evaluating Cedar policies.
-- [NVIDIA](https://www.nvidia.com/) - Supports Cedar through OpenShell (open source), which uses Cedar policies to govern AI agent access. And the Omniverse Permission Service uses Cedar policies to control access to storage, assets, and resources
 - [Gluu](https://gluu.org/) - Offers Cedarling, an embeddable and sidecar PDP powered by Cedar, that adds policy management, logging, data integration, token validation, and governance features needed by enterprises to deploy Cedar at scale.
 - [Delinia](https://delinea.com/strongdm) - StrongDM uses Cedar for fine-grained, zero-trust access control across infrastructure, databases, servers, and AI agents
 - [KeyCard.ai](http://keycard.ai/) - a runtime authorization platform for AI agents that supports Cedar to define authorization policies
 - [Permit.io](http://permit.io/) - Integrates Cedar policy support into its authorization platform via Cedar-agent (open source)
+
+## Corporate Cedar adoptors
+
+- [NVIDIA](https://www.nvidia.com/) - Adopted Cedar as part of [OpenShell](https://www.nvidia.com/en-in/ai/openshell/) (open source) project, which uses Cedar policies to govern AI agent access. And the Omniverse Permission Service uses Cedar policies to control access to storage, assets, and resources.
+- [Microsoft](https://www.microsoft.com) - Adopted Cedar as part of Microsoft [Agent Governance Toolkit (AGT) ](https://github.com/microsoft/agent-governance-toolkit)
+- [Google](https://www.google.com) - [Multi-Party Compute (MPC)](https://docs.cloud.google.com/multi-party-compute/policy-evaluation-v1alpha#:~:text=The%20policy%20set%20consists%20of%3A%20*%20Policy,%7B%20context.%20transaction.%20asset_contract_address%20%3D%3D%20%220xBannedContract%22%20%7D%3B) Policy Engine evaluates transaction policies written in the Cedar policy language
 
 ## Papers and Research
 
