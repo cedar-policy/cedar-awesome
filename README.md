@@ -117,16 +117,18 @@ This section lists open source components. Commercial components and companies t
 ## Commercial authorization product providers
 
 - [Amazon](https://www.amazon.com/) - Creator of the Cedar, offers Amazon Verified Permissions, a managed service for authoring and evaluating Cedar policies.
-- [Gluu](https://gluu.org/) - Offers Cedarling, an embeddable and sidecar PDP powered by Cedar, that adds policy management, logging, data integration, token validation, and governance features needed by enterprises to deploy Cedar at scale.
 - [Delinia](https://delinea.com/strongdm) - StrongDM uses Cedar for fine-grained, zero-trust access control across infrastructure, databases, servers, and AI agents
+- [Gluu](https://gluu.org/) - Offers Cedarling, an embeddable and sidecar PDP powered by Cedar, that adds policy management, logging, data integration, token validation, and governance features needed by enterprises to deploy Cedar at scale.
 - [KeyCard.ai](http://keycard.ai/) - a runtime authorization platform for AI agents that supports Cedar to define authorization policies
 - [Permit.io](http://permit.io/) - Integrates Cedar policy support into its authorization platform via Cedar-agent (open source)
 
 ## Corporate Cedar adoptors
 
+List of corporate Cedar adoptors in addition to product providers listed above.
+
+- [Google](https://www.google.com) - [Multi-Party Compute (MPC)](https://docs.cloud.google.com/multi-party-compute/policy-evaluation-v1alpha) Policy Engine evaluates transaction policies written in the Cedar policy language
+- [Microsoft](https://www.microsoft.com) - Adopted Cedar as part of Microsoft [Agent Governance Toolkit (AGT)](https://github.com/microsoft/agent-governance-toolkit)
 - [NVIDIA](https://www.nvidia.com/) - Adopted Cedar as part of [OpenShell](https://www.nvidia.com/en-in/ai/openshell/) (open source) project, which uses Cedar policies to govern AI agent access. And the Omniverse Permission Service uses Cedar policies to control access to storage, assets, and resources.
-- [Microsoft](https://www.microsoft.com) - Adopted Cedar as part of Microsoft [Agent Governance Toolkit (AGT) ](https://github.com/microsoft/agent-governance-toolkit)
-- [Google](https://www.google.com) - [Multi-Party Compute (MPC)](https://docs.cloud.google.com/multi-party-compute/policy-evaluation-v1alpha#:~:text=The%20policy%20set%20consists%20of%3A%20*%20Policy,%7B%20context.%20transaction.%20asset_contract_address%20%3D%3D%20%220xBannedContract%22%20%7D%3B) Policy Engine evaluates transaction policies written in the Cedar policy language
 
 ## Papers and Research
 
