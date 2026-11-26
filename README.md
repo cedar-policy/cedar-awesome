@@ -14,6 +14,8 @@ Cedar lets you express authorization rules as readable policies, decouple them f
 - :moneybag: - Shows commercial product or services offering related to Cedar 
 - Inactive GitHub projects (no releases in past 6 months) or content that is out-of-date is not included in the awesome list.
 
+**Note: Keep lists in alphabetical order**
+
 > The Cedar project does not endorse or support the hyperlinked projects, and expressly disclaims all warranties, whether express, implied or statutory, regarding these projects. Use them “as is” and “as available” at your own discretion.
 
 
