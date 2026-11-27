@@ -185,6 +185,7 @@ List of corporate Cedar adoptors in addition to product providers listed above.
 - [How we designed Cedar to be intuitive to use, fast, and safe](https://aws.amazon.com/blogs/security/how-we-designed-cedar-to-be-intuitive-to-use-fast-and-safe/) - The language design tradeoffs behind the syntax and evaluation model.
 - [Implementing Role-Based Access Control (RBAC) with Cedar](https://www.permit.io/blog/cedar-rbac) - Modelling roles and permissions in Cedar.
 - [The Cedar Programming Language: Authorization Simplified](https://thenewstack.io/the-cedar-programming-language-authorization-simplified/) - An accessible overview of what Cedar is for.
+- [Scaling Authorization with Cedar and OPAL](https://www.permit.io/blog/scaling-authorization-with-cedar-and-opal) - Distributing Cedar policy and data updates in real time.
 - [Cedar vs Rego (OPA)](https://www.permit.io/blog/opa-vs-cedar) - Compares Cedar and Rego on syntax, analyzability and tooling.
 - [How we built Cedar with automated reasoning and differential testing](https://www.amazon.science/blog/how-we-built-cedar-with-automated-reasoning-and-differential-testing) - The verification story, written for a general audience.
 - [Using Open Source Cedar to Write and Enforce Custom Authorization Policies](https://aws.amazon.com/blogs/opensource/using-open-source-cedar-to-write-and-enforce-custom-authorization-policies/) - A hands-on introduction to embedding Cedar in an application.
